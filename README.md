@@ -50,7 +50,7 @@ For more information about the concept/idea see and contribute to related discus
 - Dual SPI flash
 - Dual I²S buses (to allow I2S interfaces at the same time, i.e. simultaneous audio output and audio input)
 - MAX98357 for speaker output (I2S Class-D Mono Audio Amplifyer)
-- 2x MEMS microphones (MSM261DHP)
+- 2x MEMS microphones (MSM261DHP with 68mm inter-mic spacing)
 - SK6812 LEDs
 - Custom USB-C and 14V power input
 
