@@ -39,7 +39,7 @@
 
 Tip! If you are instead looking for a similar drop-in PCB replacement for the "Google Home Mini" (Google's first-generation smart speaker hardware with a Micro-USB charging port) then check out the sister-project at https://github.com/iMike78/home-mini-v1-drop-in-pcb
 
-**Heads-up!** Upcoming crowdfunding campaign for "MiciMike Home Mini Drop-In PCB" (1st-gen Google Home Mini) is now listed in Crowd Supply pre-launch phase (project pre-view only), and if that is successful will plan a matching campaign for Nest Mini, so check it out here:
+**Heads-up!** Upcoming crowdfunding campaign for "MiciMike Home Mini Drop-In PCB" (1st-gen Google Home Mini) is now listed in Crowd Supply pre-launch phase (project pre-view only), and if that is successful will plan a matching campaign for Nest Mini, please subscribe there to show your interest and yoy will receive email updates about this project via Crowd Supply:
 
 * https://www.crowdsupply.com/micimike-rev-devices/micimike-home-mini-drop-in-pcb
 
